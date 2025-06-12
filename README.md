@@ -23,12 +23,30 @@ In recent discourse, inflation is often portrayed as severely impacting the aver
 
 ## Key Findings
 
-- **Housing**: Expenditures rose over the decade, especially post-2016, yet **home ownership rates remained steady**, contradicting the idea that corporations are buying all homes.
-- **Food & Alcohol**: While costs rose, the **share of total expenditures remained constant**, signaling stable consumer behavior and suggesting that food inflation may not be as severe as reported.
-- **Dining Out**: Spending dropped during COVID but has recovered, pointing to resilient consumer preferences.
-- **Entertainment & Apparel**: Spending dipped during COVID but rebounded afterward—typical of a **recovering economy**.
-- **Healthcare**: Despite rising costs, the **income-to-healthcare expenditure ratio** remained constant, undermining the narrative of runaway healthcare expenses.
 - **Income vs. Expenditure**: Most age groups maintained a **surplus**, with income outpacing spending even through economic turbulence like the Trump Presidency and COVID.
+
+![image](https://github.com/user-attachments/assets/0d157edf-67a9-4578-83bc-49371d8c2649)
+
+- **Housing**: Expenditures rose over the decade, especially post-2016, yet **home ownership rates remained steady**, contradicting the idea that corporations are buying all homes.
+
+![image](https://github.com/user-attachments/assets/22ded99c-d940-4bb3-8ba4-da7bcf2e0835)
+
+- **Food & Alcohol**: While costs rose, the **share of total expenditures remained constant**, signaling stable consumer behavior and suggesting that food inflation may not be as severe as reported.
+
+![image](https://github.com/user-attachments/assets/8617408d-8d4c-49c6-bdc8-9803eda35760)
+
+- **Dining Out**: Spending dropped during COVID but has recovered, pointing to resilient consumer preferences.
+
+![image](https://github.com/user-attachments/assets/7cc95500-80f1-4c7e-9828-7797fa798cbd)
+
+- **Entertainment & Apparel**: Spending dipped during COVID but rebounded afterward—typical of a **recovering economy**.
+
+![image](https://github.com/user-attachments/assets/dd976912-3af1-4591-bb19-30de09a03707)
+
+- **Healthcare**: Despite rising costs, the **income-to-healthcare expenditure ratio** remained constant, undermining the narrative of runaway healthcare expenses.
+
+![image](https://github.com/user-attachments/assets/1d08035c-69d7-4bf6-bf54-cd9ebbcac0df)  
+
 By examining not just raw expenditure but also **ratios relative to income**, this analysis shows that increases in expenses often parallel increases in income and the economy, for the average American, is **more stable than media narratives suggest**.
 
 ## Project Structure
